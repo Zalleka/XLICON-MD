@@ -38,12 +38,12 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="92xxxxxxxxxx"
+      OWNER_NUMBER="6288991469939"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
       THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
       port = 5000
-      email = "xxxxxxxxxxxxx@gmail.com"
+      email = "zidanzall2007@gmail.com"
       global_url = "www.instagram.com/itz_shaikho/_"
       OWNER_NAME = "SALMAN"
       AUTO_REACTION = false
